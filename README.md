@@ -31,5 +31,3 @@ git clone https://github.com/nicolasandereson/SKProject.git
 cd my-first-semantic-kernel
 dotnet restore
 dotnet run
-
-###
